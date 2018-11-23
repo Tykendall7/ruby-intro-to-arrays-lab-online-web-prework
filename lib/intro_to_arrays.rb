@@ -8,7 +8,7 @@ def array_with_two_elements
 end
 
 def first_element
-    taylor_swift[1]
+    taylor_swift.take 
 end 
   
   
